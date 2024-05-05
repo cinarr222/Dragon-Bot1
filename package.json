@@ -1,0 +1,22 @@
+{
+  "name": "ravel",
+  "version": "1.0.0",
+  "description": "Dragon Bot",
+  "main": "DragonBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laxy & Wegas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "croxydb": "^0.0.22",
+    "discord.js": "^12.5.3",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "orio.db": "^3.1.2",
+    "weather-js": "^2.0.0"
+  }
+}
